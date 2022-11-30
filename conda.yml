@@ -1,10 +1,11 @@
-name: env-template
+name: great-expectations
 dependencies:
   - python=3.9
   - pip
   - pip:
-    - pandas^1.5.1
-    - numpy^1.23.4
-    - seaborn^0.12.1
-    - jupyterlab^3.4.8
+    - pandas==1.5.*
+    - numpy==1.23.*
+    - seaborn==0.12.*
+    - jupyterlab==3.4.*
+    - great_expectations==0.15.*
     - -e .
