@@ -1,4 +1,4 @@
-# conda-py-minimal-template
+# great-expectations-tutorial
 Tutorial for playing with the great_expectations package
 
 ## Usage
