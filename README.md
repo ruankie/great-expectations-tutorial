@@ -2,7 +2,12 @@
 Tutorial for playing with the great_expectations package
 
 ## Usage
-🏗 Under construction...
+Refer to the [Great Expectations docs](https://docs.greatexpectations.io/docs/) and follow the [tutorial](https://docs.greatexpectations.io/docs/tutorials/getting_started/tutorial_setup).
+
+
+## TODO
+- [ ] Set up local SQL database for connecting to.
+- [ ] Use Great Expectations to connect to the SQL database and validate expectations.
 
 
 ## References
